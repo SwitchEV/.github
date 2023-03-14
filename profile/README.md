@@ -17,6 +17,3 @@ Python implementation of ISO15118 -2 and -20 protocols for EV charging.
 
 [Pyslac](https://github.com/SwitchEV/pyslac)  
 Python implementation of the Slac protocol for EV charging, as specified by ISO15118-3.
-
-[RISE-V2G](https://github.com/SwitchEV/RISE-V2G)  
-Legacy Java implementation of ISO15118, this is no longer supported and has been replaced by Josev community.
