@@ -1,4 +1,4 @@
-![Switch Logo](resources/switch_logo.svg)
+![Switch Logo](./profile/resources/switch_logo.svg)
 
 Welcome to Switch! We are an EV charging software company based in the UK. We're busy building the Switch Platform for the next generation EV charger management and the Josev Pro embedded OS which future proofs charging stations with the latest protocols.
 
